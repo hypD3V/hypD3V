@@ -9,5 +9,5 @@
   <li>Oyun Oynamayı Severim</li>
   <li>Yazılımcıyım</li>
   <li>Hypium Botunun Developer'iyim</li>
-  <li>9Night Sunucusunun Kurucusuyum</li>
+  <li>Bildiğim Diller; PYTHON,CSS,C#,JAVASCRİPT,NODEJS,HTML</li>
 </ul>
