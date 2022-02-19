@@ -1,13 +1,17 @@
+<h1 align="center"> About Me 💜</h1>
+<p align="center">
+ <a href="https://discord.com/users/774591026940739585" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+ <a href="https://www.instagram.com/ewing.dev/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
+```js
+var ewingg = {
+    "height": "1.71",
+    "weight": "65",
+    "age": "16",
+    "type": "human",
+    "job": "student",
+    "sex": "male"
+}
 
-<h1> Hey! <img src="https://cdn.discordapp.com/emojis/558719629967491094.gif" height="35px"></h1> 
-
-<h3> I am hypDEV, I like to <a href="https://www.hypdev.ga" target = "_blank">code</a>.</h3>
-
-<h2>Biraz benden bahsedeyim.</h2>
-<ul>
-  <li>Oyun Oynamayı Severim</li>
-  <li>Yazılımcıyım</li>
-  <li>Hypium Botunun Developer'iyim</li>
-  <li>Bildiğim Diller; PYTHON,CSS,C#,JavaScript,NodeJS,HTML,TypeScript</li>
-</ul>
+console.log(ewingg);
+```
