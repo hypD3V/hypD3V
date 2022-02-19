@@ -9,5 +9,5 @@
   <li>Oyun Oynamayı Severim</li>
   <li>Yazılımcıyım</li>
   <li>Hypium Botunun Developer'iyim</li>
-  <li>Bildiğim Diller; PYTHON,CSS,C#,JAVASCRİPT,NODEJS,HTML</li>
+  <li>Bildiğim Diller; PYTHON,CSS,C#,JavaScript,NodeJS,HTML,TypeScript</li>
 </ul>
